@@ -1,0 +1,1 @@
+This is the script for hiding files. Simply takes a directory as path and then encrypts all their names rsursively of both the directories as well as the files. unhide.py then encrypts their name and shows it back
