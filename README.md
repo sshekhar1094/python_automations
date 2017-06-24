@@ -25,3 +25,5 @@ This directory includes scripts for some of the tasks automated with python
 11. **wikipedia.py** : Takes in a search query and speaks out the wikipedia summary of the most relevant article
 
 12. **wordofday.py** : Selects a word of teh day and displays it in the notification panel evry 5minutes with its top 2 meanings and example sentences
+
+13. **downloadSpoj.py** : Asks for your spoj username and password ans then downloads all of your accepted solutions to a local directory. The directory to save the files in is right now a global variable. Change it for ur location 
