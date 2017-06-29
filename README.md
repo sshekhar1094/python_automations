@@ -27,3 +27,5 @@ This directory includes scripts for some of the tasks automated with python
 12. **wordofday.py** : Selects a word of teh day and displays it in the notification panel evry 5minutes with its top 2 meanings and example sentences
 
 13. **downloadSpoj.py** : Asks for your spoj username and password ans then downloads all of your accepted solutions to a local directory. The directory to save the files in is right now a global variable. Change it for ur location 
+
+14. **vis_bokeh.py** : This ones not an automation. This is visualization file made as a wrapper over bokeh which provides one line functions for making general plots like bar graphs, line graphs, scatter plots, bollinger band, histogram, box plot and a template to show how to make a chart with hover properties
