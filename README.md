@@ -29,3 +29,5 @@ This directory includes scripts for some of the tasks automated with python
 13. **downloadSpoj.py** : Asks for your spoj username and password ans then downloads all of your accepted solutions to a local directory. The directory to save the files in is right now a global variable. Change it for ur location 
 
 14. **vis_bokeh.py** : This ones not an automation. This is visualization file made as a wrapper over bokeh which provides one line functions for making general plots like bar graphs, line graphs, scatter plots, bollinger band, histogram, box plot and a template to show how to make a chart with hover properties
+
+15. **custom_generator.py** : Just a demo of how to create your own generator. We just create a variation of range(n) with n being inclusive instead of teh default non-inclusive. 
